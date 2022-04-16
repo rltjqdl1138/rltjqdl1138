@@ -1,5 +1,5 @@
 ## Summary
-### [Detail-한국어](https://confusion-hail-778.notion.site/3ad1f3517a2846c7a20f5ac0eb024fd8)
+### [이력서 보기 - 한국어](https://confusion-hail-778.notion.site/3ad1f3517a2846c7a20f5ac0eb024fd8)
 
 ### 🛠 **Main Skill**
 
