@@ -5,7 +5,7 @@
 
 - **Node JS**
 - **React JS**
-- **OrientDB**
+- **MariaDB**
 
 ### 👷‍♂️ **Experience**
 
@@ -27,4 +27,3 @@
 - Undergraduate research student ( 2017.05 ~ 2017.12 )
 
 
-- 🔭 I’m currently working on ...
